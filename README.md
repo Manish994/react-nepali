@@ -17,3 +17,4 @@ You may also see any lint errors in the console.
 
 ![img](https://github.com/Manish994/react-nepali/blob/master/Screenshot%202023-03-19%20115534.png)
 ![img](https://github.com/Manish994/react-nepali/blob/master/Screenshot%202023-03-19%20120427.png)
+![img](https://github.com/Manish994/react-nepali/blob/master/Screenshot%202023-03-19%20120819.png)
